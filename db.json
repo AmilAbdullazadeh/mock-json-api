@@ -1,0 +1,413 @@
+{
+  "featuredgames": [
+    {
+      "id": 1,
+      "title": "The Witcher III",
+      "price": 29.99,
+      "description": "The Witcher 3: Wild Hunt[b] is a 2015 action role-playing game developed and published by CD Projekt. It is the sequel to the 2011 game The Witcher 2: Assassins of Kings and the third game in The Witcher video game series, played in an open world with a third-person perspective. The games are based on The Witcher series of fantasy novels written by Andrzej Sapkowski.",
+      "tag": "Open-World, RPG",
+      "platform": "PC",
+      "image": "https://m.media-amazon.com/images/M/MV5BYjY3ODFmNWUtNjhjNC00NTExLWIxYmEtYmQ0YTk5NjkzYTUwXkEyXkFqcGdeQXVyNzEyNjcwNTk@._V1_FMjpg_UX1000_.jpg"
+    },
+    {
+      "id": 2,
+      "title": "Cyberpunk 2077",
+      "price": 39.99,
+      "description": "Cyberpunk 2077 is an action role-playing video game developed by CD Projekt Red and published by CD Projekt. The story takes place in Night City, an open world set in the Cyberpunk universe. Players assume the first-person perspective of a customisable mercenary known as V, who can acquire skills in hacking and machinery with options for melee and ranged combat. The story follows V's struggle as he deals with a mysterious cybernetic implant that threatens to overwrite his body with the personality and memories of a deceased celebrity only perceived by V; the two must work together if there is any hope to separate the two and save V's life.",
+      "tag": "Open-World, RPG",
+      "platform": "PC",
+      "image": "https://cdn1.epicgames.com/offer/77f2b98e2cef40c8a7437518bf420e47/EGS_Cyberpunk2077_CDPROJEKTRED_S2_03_1200x1600-b1847981214ac013383111fc457eb9c5"
+    },
+    {
+      "id": 3,
+      "title": "Watch_Dogs2",
+      "price": 29.99,
+      "description": "Cyberpunk 2077 is an action role-playing video game developed by CD Projekt Red and published by CD Projekt. The story takes place in Night City, an open world set in the Cyberpunk universe. Players assume the first-person perspective of a customisable mercenary known as V, who can acquire skills in hacking and machinery with options for melee and ranged combat. The story follows V's struggle as he deals with a mysterious cybernetic implant that threatens to overwrite his body with the personality and memories of a deceased celebrity only perceived by V; the two must work together if there is any hope to separate the two and save V's life.",
+      "tag": "Open-World, RPG",
+      "platform": "PC",
+      "image": "https://m.media-amazon.com/images/M/MV5BM2EzNmU3NGYtYTcyMy00M2M1LTkyMGUtYjFlNGE0OTFmYmMxXkEyXkFqcGdeQXVyMzY0MTE3NzU@._V1_.jpg"
+    }
+  ],
+  "usercomments": [
+    {
+      "id": 1,
+      "name": "Trane",
+      "text": "Nice!"
+    },
+    {
+      "name": "GameExplorer62",
+      "email": "asdada@mail.com",
+      "text": "What a Site!",
+      "id": 2
+    },
+    {
+      "name": "ArthurMeowgan",
+      "email": "@asd",
+      "text": "Easy Boahh...",
+      "id": 3
+    },
+    {
+      "name": "Farid",
+      "email": "farid@mail.com",
+      "text": "Meow meow meow...",
+      "id": 4
+    },
+    {
+      "name": "Amil",
+      "email": "sadasd@",
+      "text": "asdasdasd",
+      "id": 5
+    }
+  ],
+  "products": [
+    {
+      "title": "Battlefield 2042",
+      "description": "Battlefield™ 2042 marks the return to the iconic all-out warfare of the franchise. Squad up and bring a cutting-edge arsenal into massive-scale battlegrounds, set in a near-future world transformed by disorder.",
+      "image": "https://cdn1.epicgames.com/offer/52f57f57120c440fad9bfa0e6c279317/EGS_Battlefield2042_DICE_S2_1200x1600-331f59b6877d2bf2194943fcf7a68048_1200x1600-331f59b6877d2bf2194943fcf7a68048",
+      "imagewp": "https://cdn1.epicgames.com/offer/52f57f57120c440fad9bfa0e6c279317/EGS_Battlefield2042GoldEdition_DICE_Editions_S1_2560x1440-98e3508c62e4d57c1ab8c109b49016a2_2560x1440-98e3508c62e4d57c1ab8c109b49016a2",
+      "price": 59.99,
+      "platform": "PC",
+      "tag": "Coop, PvP",
+      "id": 1
+    },
+    {
+      "image": "https://image.api.playstation.com/vulcan/img/cfn/11307xMxsC9RA7A8rQH4GiePP0BxYP_K8tJU1cWXe4eA189Q0ImmN8eZvJBx91eecK_vHIT2WZrrkqwKfiYvNGIu8NA2zvSV.png",
+      "title": "Control",
+      "price": "28.99$",
+      "platform": "PS-5",
+      "tag": "Action, Shooter",
+      "description": "After a secretive agency in New York is invaded by an otherworldly threat, you become the new Director struggling to regain Control.\nFrom developer Remedy Entertainment, this supernatural 3rd person action-adventure will challenge you to master the combination of supernatural abilities, modifiable loadouts and reactive environments while fighting through a deep and unpredictable world.",
+      "imagewp": "https://gamervw.com/wp-content/uploads/2019/08/control-e3-2019-hands-on-preview-2-1.jpg",
+      "id": 2
+    },
+    {
+      "imagewp": "https://images8.alphacoders.com/112/1125856.jpg",
+      "price": 29.99,
+      "title": "Cyberpunk 2077",
+      "platform": "PC",
+      "tag": "Open-World, RPG",
+      "image": "https://assets-prd.ignimgs.com/2020/07/16/cyberpunk-2077-button-fin-1594877291453.jpg",
+      "description": "Cyberpunk 2077 is an open-world, action-adventure RPG set in the megalopolis of Night City, where you play as a cyberpunk mercenary wrapped up in a do-or-die fight for survival. Improved and featuring all-new free additional content, customize your character and playstyle as you take on jobs, build a reputation, and unlock upgrades. The relationships you forge and the choices you make will shape the story and the world around you. Legends are made here. What will yours be?",
+      "id": 3
+    },
+    {
+      "title": "Grand Theft Auto V",
+      "image": "https://upload.wikimedia.org/wikipedia/az/2/20/GTA_5_Cover.jpg",
+      "price": 29.99,
+      "platform": "PS5",
+      "tag": "Action, Shooter",
+      "imagewp": "https://images7.alphacoders.com/421/421641.jpg",
+      "description": "The Grand Theft Auto V: Premium Edition includes the complete GTAV story, Grand Theft Auto Online and all existing gameplay upgrades and content. You’ll also get the Criminal Enterprise Starter Pack, the fastest way to jumpstart your criminal empire in GTA Online.",
+      "id": 4
+    },
+    {
+      "image": "https://image.api.playstation.com/vulcan/ap/rnd/202006/1023/AgWIv9NHpkWc1vXdNYuSGI8p.jpg",
+      "imagewp": "https://cdn.akamai.steamstatic.com/steam/apps/1030840/ss_7a147e0dd092400229c6c1fd513625a62ae9a4eb.1920x1080.jpg?t=1632420251",
+      "price": 24.99,
+      "platform": "XBOX",
+      "tag": "Action, Adventure",
+      "title": "Mafia: Definitive Edition",
+      "description": "An inadvertent brush with the mob thrusts cabdriver Tommy Angelo into the world of organized crime. Initially uneasy about falling in with the Salieri family, the rewards become too big to ignore.",
+      "id": 5
+    },
+    {
+      "title": "Metro Exodus",
+      "image": "https://cdn1.epicgames.com/salesEvent/salesEvent/MetroExodus-PCEnhancedEdition_S2_1200x1600-64a550825c1427140460cc3a86cafdb5",
+      "imagewp": "https://s.yimg.com/uu/api/res/1.2/Wj.NSsXH_UBoS6TMLNDVlA--~B/aD05MDA7dz0xNjAwO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/uu/api/res/1.2/xi3D0LirPYyuj65HtUiL8Q--~B/aD05MDA7dz0xNjAwO2FwcGlkPXl0YWNoeW9u/https://o.aolcdn.com/hss/storage/midas/e83315a93ac8d53fdbf77f2ee6ac5863/206447898/metrolede.jpg.cf.jpg",
+      "price": 39.99,
+      "platform": "PC, PS5",
+      "tag": "Action, FPS",
+      "description": "Metro Exodus is an epic, story-driven first person shooter from 4A Games that blends deadly combat and stealth with exploration and survival horror in one of the most immersive game worlds ever created.\nFlee the shattered ruins of dead Moscow and embark on an epic, continent-spanning journey across post-apocalyptic Russia in the greatest Metro adventure yet.",
+      "id": 6
+    },
+    {
+      "title": "Red Dead Redeption 2",
+      "image": "https://image.api.playstation.com/cdn/UP1004/CUSA03041_00/Hpl5MtwQgOVF9vJqlfui6SDB5Jl4oBSq.png",
+      "imagewp": "https://images8.alphacoders.com/900/900764.jpg",
+      "price": 24.99,
+      "platform": "PC,XBOX ONE, PS5",
+      "tag": "Adventure, Open-World",
+      "description": "Metro Exodus is an epic, story-driven first person shooter from 4A Games that blends deadly combat and stealth with exploration and survival horror in one of the most immersive game worlds ever created.\nFlee the shattered ruins of dead Moscow and embark on an epic, continent-spanning journey across post-apocalyptic Russia in the greatest Metro adventure yet.",
+      "id": 7
+    },
+    {
+      "title": "Watch_Dogs2",
+      "image": "https://image.api.playstation.com/cdn/UP0001/CUSA04459_00/qBxvfDJJ9dbavai6xsWOcWaxRDGRb7h0.png",
+      "imagewp": "https://images6.alphacoders.com/709/thumb-1920-709832.jpg",
+      "price": 24.99,
+      "platform": "PC, PS5",
+      "tag": "Action, Adventure",
+      "description": "Play as Marcus Holloway, a brilliant young hacker living in the birthplace of the tech revolution, the San Francisco Bay Area.\nTeam up with Dedsec, a notorious group of hackers, to execute the biggest hack in history; take down ctOS 2.0, an invasive operating system being used by criminal masterminds to monitor and manipulate citizens on a massive scale.\nExplore the dynamic open-world, full of gameplay possibilities\nHack into every connected device and take control of the city infrastructure.",
+      "id": 8
+    },
+    {
+      "image": "https://image.api.playstation.com/vulcan/ap/rnd/202007/0217/OX5mEmwgRPeSQrhGFU3n4moZ.png",
+      "imagewp": "https://cdn1.epicgames.com/0a84818055e740a7be21a2e5b6162703/offer/WatchDogs_Legion_Store_Landscape_2560x1440-2560x1440-6564aab7daeb17650e7fc190714bba76.jpg",
+      "title": "Watch_Dogs: Legion",
+      "price": 23.99,
+      "platform": "PC, PS5",
+      "tag": "Action, Adventure",
+      "description": "Build a resistance from virtually anyone you see as you hack, infiltrate, and fight to take back a near-future London that is facing its downfall. Welcome to the Resistance.\nRecruit and play as anyone in the city. Everyone you see has a unique backstory, personality, and skill set.\nHack armed drones, deploy spider-bots, and take down enemies using an Augmented Reality Cloak.",
+      "id": 9
+    },
+    {
+      "image": "https://image.api.playstation.com/cdn/EP0082/CUSA00109_00/IrvjYUmMqx3flPwlrij5JPOw4Lci8Bmm.png",
+      "imagewp": "https://images5.alphacoders.com/337/337943.jpg",
+      "title": "Tomb Raider",
+      "price": 18.99,
+      "platform": "PC,XBOX ONE, PS4",
+      "tag": "Adventure",
+      "description": "Armed only with raw instincts and the ability to push beyond the limits of human endurance, Lara must fight to unravel the dark history of a forgotten island to escape its relentless hold.",
+      "id": 10
+    },
+    {
+      "image": "https://assets-prd.ignimgs.com/2022/01/20/arma-3-button-1642668082712.jpg",
+      "imagewp": "https://images.alphacoders.com/493/thumb-1920-493645.jpg",
+      "title": "Arma III",
+      "price": 39.99,
+      "platform": "PC",
+      "tag": "Coop, PvP",
+      "description": "Armed only with raw instincts and the ability to push beyond the limits of human endurance, Lara must fight to unravel the dark history of a forgotten island to escape its relentless hold.",
+      "id": 11
+    },
+    {
+      "title": "DayZ Standalone",
+      "image": "https://image.api.playstation.com/vulcan/ap/rnd/202006/1014/ORrwkbfh9B1OwfQbPGLBsgs7.png",
+      "price": 23.99,
+      "platform": "PC",
+      "tag": "Open-World, Survival",
+      "imagewp": "https://venturebeat.com/wp-content/uploads/2017/05/dayz.jpg?fit=1920%2C1080&strip=all",
+      "description": "There are no map markers, daily quests, or scoreboards to help you create your story. There is only Chernarus – 230 square kilometers of post-Soviet country that was struck by an unknown virus, which turned the majority of its population into raging infected.\n\nYour task? To survive the collapse of civilization for as long as you possibly can. Keep in mind that death is permanent in unforgiving Chernarus. All you’ll have when you start over again are the memories of your final mistake.",
+      "id": 12
+    },
+    {
+      "title": "Saint's Row",
+      "image": "https://image.jeuxvideo.com/medias/163483/1634831588-672-jaquette-avant.gif",
+      "price": 12.99,
+      "platform": "PC, PS5",
+      "tag": "Action, Adventure",
+      "imagewp": "https://cdn1.epicgames.com/offer/0d23bb77ee2f45b7a571bde68caddb09/EGS_SaintsRow_DeepSilverVolition_S1_2560x1440-1ba560d3f228fe5c7341777a6ac9abb7",
+      "description": "There are no map markers, daily quests, or scoreboards to help you create your story. There is only Chernarus – 230 square kilometers of post-Soviet country that was struck by an unknown virus, which turned the majority of its population into raging infected.\n\nYour task? To survive the collapse of civilization for as long as you possibly can. Keep in mind that death is permanent in unforgiving Chernarus. All you’ll have when you start over again are the memories of your final mistake.",
+      "id": 13
+    },
+    {
+      "title": "Star Wars: Battlefront II",
+      "image": "https://store-images.s-microsoft.com/image/apps.59752.13982743944721264.aba8e5da-4441-4232-a0e1-21747a781f2b.42aa9607-05b4-44e7-93d2-d583d90e7a69",
+      "price": 27.99,
+      "platform": "PC",
+      "tag": "Coop, PvP",
+      "imagewp": "https://media.contentapi.ea.com/content/dam/walrus/en-us/migrated-images/2017/04/reveal-swbf2-fb-meta-image-alt.png.adapt.crop191x100.1200w.png",
+      "description": "Be the hero in the ultimate STAR WARS™ battle fantasy with STAR WARS™ Battlefront™ II: Celebration Edition! Get STAR WARS Battlefront II and the complete collection of customization content acquirable through in-game purchase from launch up to – and including – items inspired by STAR WARS™: THE RISE OF SKYWALKER™.*",
+      "id": 14
+    },
+    {
+      "title": "Wolfenstein: The New Order",
+      "image": "https://image.api.playstation.com/vulcan/ap/rnd/202009/3004/V6rH21cN1JtpOt6Hk9wFBrJS.png",
+      "price": 22.99,
+      "platform": "PC, PS5",
+      "tag": "RPG, Action",
+      "imagewp": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_WolfensteinTheNewOrder_MachineGames_S1_2560x1440-3a75b2c45a2a12e882feb2e2ff180b0c",
+      "description": "Developed by MachineGames, a studio comprised of a seasoned group of developers recognized for their work creating story-driven games, Wolfenstein offers a deep game narrative packed with action, adventure and first-person combat.",
+      "id": 15
+    },
+    {
+      "title": "God Of War: Ragnarok",
+      "image": "https://image.api.playstation.com/vulcan/ap/rnd/202109/2821/a0DyIs2SEHrYpciM1ideU1wv.jpg",
+      "price": 59.99,
+      "platform": "PC, PS5",
+      "tag": "Action, Adventure",
+      "slogan": "I Am The Gods Have Made Me!",
+      "imagewp": "https://image.api.playstation.com/vulcan/img/rnd/202008/2617/gCLof29n2eeFxVRGpo90xW1A.jpg",
+      "description": "His vengeance against the Gods of Olympus years behind him, Kratos now lives as a man in the realm of Norse Gods and monsters. It is in this harsh, unforgiving world that he must fight to survive… and teach his son to do the same.",
+      "id": 16
+    },
+    {
+      "title": "Spider-Man",
+      "image": "https://image.api.playstation.com/vulcan/ap/rnd/202011/0402/C784xeOFo2wViCf4m5bxgoeH.png",
+      "price": 59.99,
+      "platform": "PC, PS-5",
+      "tag": "Action, Adventure",
+      "slogan": "This is my gift, my curse. Who am I? I'm Spider-Man!",
+      "imagewp": "https://images6.alphacoders.com/913/913243.jpg",
+      "description": "His vengeance against the Gods of Olympus years behind him, Kratos now lives as a man in the realm of Norse Gods and monsters. It is in this harsh, unforgiving world that he must fight to survive… and teach his son to do the same.",
+      "id": 18
+    },
+    {
+      "title": "Call Of Duty",
+      "platform": "PC,XBOX ONE, PS5",
+      "tag": "Coop, PvP",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTc3NWY2ZTMtNTNlZC00MWM2LWI5MzYtMmU1YzY0ODk5ZjQ1XkEyXkFqcGdeQXVyODA2MTkwODk@._V1_FMjpg_UX1000_.jpg",
+      "price": 39.99,
+      "slogan": "Remember, switching to your pistol is always faster than reloading.",
+      "imagewp": "https://media.gamestop.com/i/gamestop/11206901_SCR01?fmt=auto",
+      "description": "His vengeance against the Gods of Olympus years behind him, Kratos now lives as a man in the realm of Norse Gods and monsters. It is in this harsh, unforgiving world that he must fight to survive… and teach his son to do the same.",
+      "id": 19
+    },
+    {
+      "image": "https://image.api.playstation.com/vulcan/img/rnd/202009/2913/TQKAd8U6hnIFQIIcz6qnFh8C.png",
+      "imagewp": "https://i.pinimg.com/originals/08/c6/ec/08c6ec51dbd764753cfa4874bf2f8099.jpg",
+      "price": 23.99,
+      "platform": "PC,XBOX ONE, PS5",
+      "tag": "Open-World, RPG",
+      "title": "The Witcher III",
+      "description": "As war rages on throughout the Northern Realms, you take on the greatest contract of your life — tracking down the Child of Prophecy, a living weapon that can alter the shape of the world.",
+      "id": 20
+    },
+    {
+      "image": "https://image.api.playstation.com/cdn/UP0101/CUSA01140_00/09xZlCmW0Y248zmCw0GAfTIYWu3AEUty.png",
+      "imagewp": "https://cdn.akamai.steamstatic.com/steam/apps/287700/ss_0b38ffb37180ffbadcc0c1d645f65b59c5861d1b.1920x1080.jpg?t=1653977206",
+      "price": 18.99,
+      "platform": "PC",
+      "tag": "Multiplayer, Shooter",
+      "description": "Ushering in a new era for the METAL GEAR franchise with cutting-edge technology powered by the Fox Engine, METAL GEAR SOLID V: The Phantom Pain, will provide players a first-rate gaming experience as they are offered tactical freedom to carry out open-world missions.",
+      "title": "Metal Gear Solid V: The Phantom Pain",
+      "id": 21
+    }
+  ],
+  "platforms": [
+    {
+      "name": "XBOX",
+      "id": 1
+    },
+    {
+      "name": "PS-5",
+      "id": 2
+    },
+    {
+      "name": "PC",
+      "id": 3
+    },
+    {
+      "name": "PS-4",
+      "id": 4
+    },
+    {
+      "name": "PS-6",
+      "id": 5
+    }
+  ],
+  "tags": [
+    {
+      "name": "Action, Adventure",
+      "id": 1
+    },
+    {
+      "name": "RPG, Action",
+      "id": 2
+    },
+    {
+      "name": "Multiplayer, Shooter",
+      "id": 3
+    },
+    {
+      "name": "Open-World, RPG",
+      "id": 4
+    },
+    {
+      "name": "Coop, PvP",
+      "id": 5
+    },
+    {
+      "name": "FPS",
+      "id": 6
+    }
+  ],
+  "gallery": [
+    {
+      "id": 1,
+      "image": "https://images4.alphacoders.com/108/1087054.jpg"
+    },
+    {
+      "id": 2,
+      "image": "https://img5.goodfon.com/wallpaper/nbig/f/f7/assassin-s-creed-valhalla-assassin-s-creed-viking-mech.jpg"
+    },
+    {
+      "id": 3,
+      "image": "https://media.wired.com/photos/59fb850962ea001cca43510d/master/w_2560%2Cc_limit/ACO-TA.jpg"
+    },
+    {
+      "id": 4,
+      "image": "https://i.ytimg.com/vi/zu3wZ-_IKrM/maxresdefault.jpg"
+    },
+    {
+      "id": 5,
+      "image": "https://wallsbazar.com/wp-content/uploads/2021/09/Call-of-duty-black-ops-cold-War-Wallpaper.jpg"
+    },
+    {
+      "id": 6,
+      "image": "https://wallpapersmug.com/download/1366x768/03408c/red-dead-redemption-2-4k-game.jpg"
+    },
+    {
+      "id": 7,
+      "image": "https://www.pcgamesn.com/wp-content/sites/pcgamesn/2021/07/RDR2_PC_Screenshot_023.jpg"
+    },
+    {
+      "id": 8,
+      "image": "https://www.enjpg.com/img/2020/cyberpunk-2077-2.png"
+    },
+    {
+      "id": 9,
+      "image": "https://i.pinimg.com/originals/f5/f4/93/f5f493121e52c5e294e31787f0e06bef.jpg"
+    },
+    {
+      "id": 10,
+      "image": "https://wallpaperaccess.com/full/351824.jpg"
+    },
+    {
+      "id": 11,
+      "image": "https://wallpaperaccess.com/full/159042.jpg"
+    },
+    {
+      "id": 12,
+      "image": "https://i.pinimg.com/originals/74/71/54/74715447cf72504ba60cece556b68eeb.jpg"
+    },
+    {
+      "id": 13,
+      "image": "https://images.alphacoders.com/493/thumb-1920-493645.jpg"
+    },
+    {
+      "id": 14,
+      "image": "https://images.hdqwalls.com/wallpapers/halo-loot-crate-un.jpg"
+    },
+    {
+      "id": 15,
+      "image": "https://images.hdqwalls.com/wallpapers/dying-light-2-stay-human-4k-cp.jpg"
+    },
+    {
+      "id": 16,
+      "image": "https://images2.alphacoders.com/978/978939.jpg"
+    },
+    {
+      "id": 17,
+      "image": "https://wallpaper.dog/large/20463971.jpg"
+    },
+    {
+      "id": 18,
+      "image": "https://images7.alphacoders.com/421/421641.jpg"
+    },
+    {
+      "id": 19,
+      "image": "https://images5.alphacoders.com/124/1244644.jpg"
+    },
+    {
+      "id": 20,
+      "image": "https://blog.playstation.com/tachyon/2022/06/be1caf42f3981d7b73f4e2f89cb061f7192cd326-scaled.jpg"
+    },
+    {
+      "id": 21,
+      "image": "https://img5.goodfon.com/wallpaper/nbig/8/3b/the-witcher-3-wild-hunt-vedmak-igra-skellige.jpg"
+    },
+    {
+      "id": 22,
+      "image": "https://wallpapershome.com/images/wallpapers/mafia-definitive-edition-3840x2160-mafia-trilogy-screenshot-4k-22537.jpg"
+    },
+    {
+      "id": 23,
+      "image": "https://wallpaperaccess.com/full/547813.png"
+    },
+    {
+      "id": 24,
+      "image": "https://images.alphacoders.com/121/1211755.jpg"
+    }
+  ]
+}
